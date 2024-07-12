@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvln94" alt="pvln94" /></a> </p>
 
-- 🔭 I’m currently working on **Iris-Species-Classification-master prediction website using ML,HTML,CSS**
+- 🔭 I’m currently working on **Converting ML based website into an App**
 
 - 🌱 I’m currently learning **Generative AI, Data Analytics**
 
