@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Narasimha Pula 👋</h1>
-<h3 align="center">A passionate frontend developer, Data Analyst, AI/ML Engineer from India</h3>
+<h3 align="center">A passionate frontend developer,Cross Platform App developer, Data Analyst, AI/ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvln94&label=Profile%20views&color=0e75b6&style=flat" alt="pvln94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvln94" alt="pvln94" /></a> </p>
 
-- 🔭 I’m currently working on **Converting ML based website into an App**
+- 🔭 I’m currently working on **Making Native-Cross Platform app using flutter framework**
 
 - 🌱 I’m currently learning **Generative AI, Data Analytics**
 
