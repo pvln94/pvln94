@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Machine Learning, Python, SQL, Java, C, HTML, CSS, Javascript**
 
-- 📫 How to reach me **narasimhapula2005@gmail.com**
+- 📫 How to reach me **narasimhapula2005@gmail.com** and **av.en.u4aie22029@av.students.amrita.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
