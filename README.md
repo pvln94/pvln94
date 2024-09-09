@@ -27,7 +27,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100075470883803" target="blank">
+<a href="https://www.facebook.com/profile.php?id=100075470883803" target="blank"> 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 
