@@ -5,17 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvln94" alt="pvln94" /></a> </p>
 
-- 🔭 I’m currently working on **Making Native-Cross Platform app using flutter framework**
-
-- 🌱 I’m currently learning **Generative AI, Data Analytics**
-
-- 👯 I’m looking to collaborate on **Cloud native Projects, AI/ML Projects**
-
-- 🤝 I’m looking for help with **Devops**
 
 - 👨‍💻 All of my projects are available at [github.com/pvln94](github.com/pvln94)
 
-- 💬 Ask me about **Machine Learning, Python, SQL, Java, C, HTML, CSS, Javascript**
+- 💬 Ask me about **Machine Learning, R, Python, SQL, Java, C, HTML, CSS, Javascript**
 
 - 📫 How to reach me **narasimhapula2005@gmail.com** and **av.en.u4aie22029@av.students.amrita.edu**
 
