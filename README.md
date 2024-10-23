@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Narasimha Pula 👋</h1>
-<h3 align="center">A passionate Frontend developer,Cross Platform App developer, Data Analyst, AI/ML Engineer from India</h3>
+<h3 align="center">A passionate JAVA developer, AI/ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvln94&label=Profile%20views&color=0e75b6&style=flat" alt="pvln94" /> </p>
 
