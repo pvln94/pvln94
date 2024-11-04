@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/pvln94](github.com/pvln94)
 
-- 💬 Ask me about **Machine Learning, R, Python, SQL, Java, C, HTML, CSS, Javascript**
+- 💬 Ask me about **Machine Learning, R, Python, SQL, Java, C, HTML, CSS, Javascript, Dart**
 
 - 📫 How to reach me **narasimhapula2005@gmail.com** and **av.en.u4aie22029@av.students.amrita.edu**
 
